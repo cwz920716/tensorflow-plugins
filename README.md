@@ -6,6 +6,6 @@ Usage:
 
 	2. Download all code here and put them in tensoflow/plugins folder.
 
-	3. build --config=opt //plugins:my\_binary
+	3. build --config=opt //plugins:my_binary
 
-	4. execute bazel-bin/plugins/my\_binary and it should return "Success".
+	4. execute bazel-bin/plugins/my_binary and it should return "Success".
