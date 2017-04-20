@@ -1,4 +1,4 @@
-This is a example for how to use AOT compilation on TensorFlow XLA. The code are extracted form the TensorFlow github repo.
+This is a example for how to use Ahead-Of-Time (AOT) compilation on TensorFlow XLA (https://www.tensorflow.org/performance/xla/tfcompile). The code are extracted form the TensorFlow github repo.
 
 Usage:
 
